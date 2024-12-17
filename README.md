@@ -2,6 +2,20 @@
 
 Dive into the nostalgia of classic gaming with this NES emulator built entirely in Go! ⚡ Experience the charm of 8-bit gaming by running NES ROMs on this emulator.  
 
+## 📸 Screenshots  
+
+Here’s a glimpse of the emulator in action:  
+
+![NES Emulator Screenshot](./nes_emulator_screenshots.png)  
+
+---
+
+## 🎥 Video Demo  
+
+Watch the emulator in action:  
+
+[![NES Emulator Video](https://img.youtube.com/vi/placeholder/0.jpg)](./Nes_emulator_video.mp4)  
+
 ---
 
 ## 🚀 How to Run  
